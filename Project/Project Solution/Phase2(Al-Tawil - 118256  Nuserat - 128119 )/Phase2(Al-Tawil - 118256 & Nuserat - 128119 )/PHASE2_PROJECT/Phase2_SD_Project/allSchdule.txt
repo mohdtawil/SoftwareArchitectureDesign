@@ -1,0 +1,1 @@
+  (  Doctor Schdule [ 1 ] =  Name: mohammad  ID : 10  Days : sunday,monday,friday  Untile Date : 20/02/2021  Start Time : 10:25  End Time : 20:00  )   &     (  Doctor Schdule [ 2 ] =  Name: ahmad  ID : 20  Days : tuseday,thersday  Untile Date : 25/02/2021  Start Time : 12:00  End Time : 16:00  )   &   
